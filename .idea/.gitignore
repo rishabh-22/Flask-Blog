@@ -2,3 +2,5 @@
 /workspace.xml
 .idea/
 site.db
+__pycache__/
+
