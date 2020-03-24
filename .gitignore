@@ -1,0 +1,5 @@
+/blog/static/profile_pics/
+/workspace.xml
+.idea/
+site.db
+blog/__pycache__/
