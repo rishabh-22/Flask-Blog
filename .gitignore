@@ -3,3 +3,5 @@
 .idea/
 site.db
 blog/__pycache__/
+.gitignore
+.idea
